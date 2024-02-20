@@ -18,7 +18,7 @@ Ensino Médio Completo
 
 
 
-- 🔭 
+
 - 🌱 Atualmente estou estudando programação front-end.
 - 👯 Gostaria de colaborar de forma positiva e signifícativa.
 - 🤔 Quero ajudar e ser ajudado.
@@ -31,5 +31,5 @@ Ensino Médio Completo
   1. Terminar o arquivo README
   2. Fazer commit (commitar)
   3. Abrir o repositório
-  4. 
+     
   
