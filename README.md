@@ -8,7 +8,7 @@ Ensino Médio Completo
 ## Aprendendo:
 
  * Markdown (linguagem de marcação)
-[Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[Guia básico de Markdown](https://www.brasilcode.com.br/wp-content/uploads/2023/06/roadmap-desenvolvedor-backend.webp)
 * HTML (linguagem de marcação)
 * CSS (linguagem de estilização)
 * PowerShell (terminal Windows)
