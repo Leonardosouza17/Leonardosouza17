@@ -1,6 +1,6 @@
 ### Leonardo Martins Pereira De Souza
 
-   Estudante de programação front-end no **SENAI-SP**. Tenho 19 anos,sou solteiro. Gosto de tecnologia,conteúdo automotivo,esportes, estudar, ler,jogar e estar atualizado.
+   Estudante de programação front-end no **SENAI-SP**. Tenho 20 anos,sou solteiro. Gosto de tecnologia,conteúdo automotivo,esportes, estudar, ler,jogar e estar atualizado.
 
 ## Formação
 Ensino Médio Completo
