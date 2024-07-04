@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Olá, me chamo Leonardo.</h1>
+   <h1>Olá, Me chamo Leonardo.</h1>
 </div>
 <br>
  <div align="center" >
@@ -31,19 +31,23 @@
 <br>
 <br>
 <br>
-
+<div>
 <div align="center">
    <h1>Meus Contatos</h1>
 </div>
 <div align="center">
-   
    <a href="www.gmail.com/leonardompdesouza@gmail.com">
   <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </div>
+<div align="center">
    <a href="www.linkedin.com/in/leonardoosouza" >
    <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
+   <div align="center">
    <a href="https://www.instagram.com/leonardo_souzah7">
    <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+   </div>
 <br>
 <br>
 
