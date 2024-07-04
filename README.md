@@ -1,78 +1,68 @@
-### Leonardo Martins Pereira De Souza
+<div align="center">
+   <h1>Olá, me chamo Leonardo.</h1>
+</div>
+<br>
+ <div align="center" >
+     <a href="https://github.com/Leonardosouza17">
+     <img src="https://github-readme-stats.vercel.app/api?username=Leonardosouza17&show_icons=true&theme=transparent">
+   </div>
+        <hr>
+       <div align="center">
+         <a href="https://github.com/Leonardosouza17">
+     <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardosouza17&layout=compact">
+       </div>
+       <br>
+       <br>
+            
 
-   Estudante de programação front-end no **SENAI-SP**. Tenho 20 anos,sou solteiro. Gosto de tecnologia,conteúdo automotivo,esportes, estudar, ler,jogar e estar atualizado.
+<div align="center">
+   <h1>Skills</h1>
+</div>
+<div align="center">
+ <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:5px"> 
+ <img height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+ <img height="30em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+ <img height="30em" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
+ <img height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+ <img height="30em" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> 
+ <img height="30em" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"> 
+ <img height="30em" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
+</div>
+<br>
+<br>
+<br>
 
-## Formação
-Ensino Médio Completo
+<div align="center">
+   <h1>Meus Contatos</h1>
+</div>
+<div align="center">
+   
+   <a href="www.gmail.com/leonardompdesouza@gmail.com">
+  <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <a href="www.linkedin.com/in/leonardoosouza" >
+   <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.instagram.com/leonardo_souzah7">
+   <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</div>
+<br>
+<br>
 
-## Aprendendo:
+# Formação
+- Ensino médio completo
+- Atualmente faço estudo em um curso de Desenvolvedor Front-End no **Senai-SP** que tem parceria com a empresa **Ford Motor Company Fund**, no **Projeto Ford enter**.
+  
+  
+  
+## Citações
+>>
+>"Há males que vêm para o bem"
+>>
+>"A palavra é prata,o silêncio é ouro"
+>>
+>"A pressa é inimiga da perfeição"
 
- * Markdown (linguagem de marcação)
-[Guia básico de Markdown](https://www.brasilcode.com.br/wp-content/uploads/2023/06/roadmap-desenvolvedor-backend.webp)
-* HTML (linguagem de marcação)
-* CSS (linguagem de estilização)
-* PowerShell (terminal Windows)
-* Bash (terminal Linux)
-* Git (Sistema de controle de versionamento)
-* GitHub (plataforma de hospedagem de código-fonte
 
-
-
-
-- 🌱 Atualmente estou estudando programação front-end.
-- 👯 Gostaria de colaborar de forma positiva e signifícativa.
-- 🤔 Quero ajudar e ser ajudado.
-- 💬 Pergunte me sobre: referente à programação e conteúdo automotivo.
-- 📫 Para entrar em contato,pode me mandar um email,o mesmo que se encontra na bio.
-- 😄 Pronomes:ele/dele
-- ⚡ Curiosidades:
-
-  O que vamos fazer em seguida:
-  1. Terminar o arquivo README
-  2. Fazer commit (commitar)
-  3. Abrir o repositório
-      
-![Ilustração de dois desenvolvedores](https://blog.xpeducacao.com.br/wp-content/uploads/2022/12/desenvolvedor-de-software.jpg)
-
-### Costumo Dizer
-> "Há males que vêm para o bem"
-> 
-> "A palavra é prata,o silêncio é ouro"
-> 
-> "A pressa é inimiga da perfeição"
-
-### Algumas tags HTML que estou aprendendo:
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8">
-    <title>Minha página</title>
-  </head>
-  <body>
-    <h1>Minha página</h1>
-    <p>Meu parágrafo</p>
-  </body>
-</html>
-```
-
-A tag `<!DOCTYPE html>` indica a versão do HTML no documento.
-
-A tag `<html lang="pt-BR">` Indica o início do documento HTML. O atributo `lang="pt-BR"` indica o idioma da página.
-
-A tag `<head>` indica onde estão as meta informações da página.
-
-A tag `<meta charset="UTF-8">` é uma tag meta que indica aos navegadores qual é o formato de codificação de caracteres utilizado naquele documento.
-
-A tag `<title>` indica o título do documento no navegador (barra de título ou aba).
-
-A tag `<body>` marca o conteúdo que será apresentado ao usuário. É o "corpo" da página.
-
-A tag `<h1>` é utilizada para marcar um título de importância nivel 1 na página da web.
-
-A tag `<p>` representa um parágrafo dentro do documento HTML.
-
+<br>
 
 ### Tabela de proficiência
 
