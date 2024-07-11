@@ -43,6 +43,15 @@
    <a href="https://www.instagram.com/leonardo_souzah7">
    <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+<br>
+<br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
    
 <br>
 <br>
