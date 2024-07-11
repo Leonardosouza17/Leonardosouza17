@@ -45,6 +45,7 @@
 </div>
 <br>
 <br>
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardosouza17/Leonardosouza17/output/github-contribution-grid-snake-dark.svg">
